@@ -1,0 +1,9 @@
+/.metadata/ 
+/.settings/ 
+/bin/ 
+/*.class 
+/target/ 
+/*.log 
+/.vscode/ 
+/.DS_Store 
+/Thumbs.db 
