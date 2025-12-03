@@ -1,0 +1,2 @@
+com\hcms\gateway\ApiGatewayApplication.class
+com\hcms\gateway\filter\JwtAuthenticationFilter.class

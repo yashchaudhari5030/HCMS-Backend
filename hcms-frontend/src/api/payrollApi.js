@@ -6,3 +6,4 @@ export const downloadPayslip = id => downloadBlob(`/payroll/${id}/pdf`, `payslip
 
 
 
+

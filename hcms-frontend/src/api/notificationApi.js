@@ -4,3 +4,4 @@ export const markRead = id => api.put(`/notifications/${id}/read`)
 
 
 
+

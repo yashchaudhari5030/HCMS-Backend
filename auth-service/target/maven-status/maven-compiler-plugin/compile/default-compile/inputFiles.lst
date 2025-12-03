@@ -1,0 +1,16 @@
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\entity\User.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\exception\UnauthorizedException.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\service\JwtService.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\dto\RegisterRequest.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\dto\AuthResponse.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\dto\LoginRequest.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\exception\ErrorResponse.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\config\SecurityConfig.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\exception\GlobalExceptionHandler.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\service\AuthService.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\config\DataInitializer.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\repository\UserRepository.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\controller\AuthController.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\AuthServiceApplication.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\entity\Role.java
+C:\Project\BackendProject\auth-service\src\main\java\com\hcms\auth\exception\BadRequestException.java
